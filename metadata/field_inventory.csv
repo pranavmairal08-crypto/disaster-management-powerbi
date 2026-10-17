@@ -1,0 +1,24 @@
+﻿kind,name,notes
+Column/reference,Priority Category,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,aid_amount_usd,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,casualties,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,country,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,date,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,disaster_type,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,economic_loss_usd,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,latitude,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,longitude,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,response_efficiency_score,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,response_time_hours,Referenced by report visuals; confirm exact model data type in Power BI
+Column/reference,severity_index,Referenced by report visuals; confirm exact model data type in Power BI
+Measure/reference,Average Priority Score,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Average Recovery Days,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Average Response Efficiency,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Average Response Time,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Critical Disasters,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,High Priority Disasters,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Total Aid,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Total Casualties,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Total Disasters,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Measure/reference,Total Economic Loss,Measure name referenced by report; DAX expression was not available in the report visual metadata
+Table/reference,Disasters,Table/entity referenced by report visuals

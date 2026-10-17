@@ -1,0 +1,58 @@
+﻿page_name,page_id,visual_id,visual_type,text_or_heading,fields_and_measures,source_path
+Executive Overview,f527439e704b20b816c4,0ac3256376e06d1324e7,cardVisual,,Total Aid,pages/f527439e704b20b816c4/visuals/0ac3256376e06d1324e7/visual.json
+Executive Overview,f527439e704b20b816c4,122141f812ec6c0e4039,textbox,SMART DISASTER RESPONSE AND EMERGENCY RESPONSE,,pages/f527439e704b20b816c4/visuals/122141f812ec6c0e4039/visual.json
+Executive Overview,f527439e704b20b816c4,28e0de90058982640c10,cardVisual,,Total Casualties,pages/f527439e704b20b816c4/visuals/28e0de90058982640c10/visual.json
+Executive Overview,f527439e704b20b816c4,5747608d88a621de6107,cardVisual,,Total Economic Loss,pages/f527439e704b20b816c4/visuals/5747608d88a621de6107/visual.json
+Executive Overview,f527439e704b20b816c4,5aafb5bb1a06580d1a31,lineChart,,date; Total Disasters,pages/f527439e704b20b816c4/visuals/5aafb5bb1a06580d1a31/visual.json
+Executive Overview,f527439e704b20b816c4,6b19bc91daeb954db6d0,clusteredBarChart,,disaster_type; Total Disasters,pages/f527439e704b20b816c4/visuals/6b19bc91daeb954db6d0/visual.json
+Executive Overview,f527439e704b20b816c4,b8e93ad8a185edcd070c,cardVisual,,Average Response Efficiency,pages/f527439e704b20b816c4/visuals/b8e93ad8a185edcd070c/visual.json
+Executive Overview,f527439e704b20b816c4,ba75b1b2885004c5e6cb,cardVisual,,Total Disasters,pages/f527439e704b20b816c4/visuals/ba75b1b2885004c5e6cb/visual.json
+Executive Overview,f527439e704b20b816c4,cb08da928d170c7e98a9,textbox,"Data-driven disaster monitoring , impact assessment and emergency response analytics",,pages/f527439e704b20b816c4/visuals/cb08da928d170c7e98a9/visual.json
+Executive Overview,f527439e704b20b816c4,77fe22a712d77c4d0122,donutChart,,country; Total Disasters,pages/f527439e704b20b816c4/visuals/77fe22a712d77c4d0122/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,052a87a2b5d0b0521676,textbox,"Geographic distribution , disaster patterns and severity analysis",,pages/59a26ffe00a9d12c9e00/visuals/052a87a2b5d0b0521676/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,3eba70e57809ad5780d8,actionButton,,,pages/59a26ffe00a9d12c9e00/visuals/3eba70e57809ad5780d8/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,577f9e4c795036731e2b,textbox,DISASTER INTELLIGENCE,,pages/59a26ffe00a9d12c9e00/visuals/577f9e4c795036731e2b/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,5f4f4df0a406c5d2cc1a,actionButton,,,pages/59a26ffe00a9d12c9e00/visuals/5f4f4df0a406c5d2cc1a/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,b3242a7009aa983246a9,map,,disaster_type; severity_index; country; casualties; economic_loss_usd; response_time_hours; response_efficiency_score; longitude; latitude,pages/59a26ffe00a9d12c9e00/visuals/b3242a7009aa983246a9/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,cec551f658d1496c0047,actionButton,,,pages/59a26ffe00a9d12c9e00/visuals/cec551f658d1496c0047/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,1e72a90a0061e8220028,actionButton,,,pages/59a26ffe00a9d12c9e00/visuals/1e72a90a0061e8220028/visual.json
+Emergency Response,af76c3c924b8b3304ca9,39baff0bd597ad1a1ca9,scatterChart,,country; Total Economic Loss; Total Aid,pages/af76c3c924b8b3304ca9/visuals/39baff0bd597ad1a1ca9/visual.json
+Emergency Response,af76c3c924b8b3304ca9,41931bf797d9a2292e00,cardVisual,,Average Response Efficiency,pages/af76c3c924b8b3304ca9/visuals/41931bf797d9a2292e00/visual.json
+Emergency Response,af76c3c924b8b3304ca9,48fbff974da7cd09bc00,actionButton,,,pages/af76c3c924b8b3304ca9/visuals/48fbff974da7cd09bc00/visual.json
+Emergency Response,af76c3c924b8b3304ca9,6a0287700dd139a47c48,lineChart,,date; Average Response Time,pages/af76c3c924b8b3304ca9/visuals/6a0287700dd139a47c48/visual.json
+Emergency Response,af76c3c924b8b3304ca9,7406f21ee50970d3557a,actionButton,,,pages/af76c3c924b8b3304ca9/visuals/7406f21ee50970d3557a/visual.json
+Emergency Response,af76c3c924b8b3304ca9,97849a2e836aaa984860,cardVisual,,Average Recovery Days,pages/af76c3c924b8b3304ca9/visuals/97849a2e836aaa984860/visual.json
+Emergency Response,af76c3c924b8b3304ca9,b843c67fa0313160a086,lineChart,,disaster_type; Average Response Time; Average Response Efficiency,pages/af76c3c924b8b3304ca9/visuals/b843c67fa0313160a086/visual.json
+Emergency Response,af76c3c924b8b3304ca9,b970cf8b0ac067b6a625,cardVisual,,Average Response Time,pages/af76c3c924b8b3304ca9/visuals/b970cf8b0ac067b6a625/visual.json
+Emergency Response,af76c3c924b8b3304ca9,bb299b109e225b06a858,actionButton,,,pages/af76c3c924b8b3304ca9/visuals/bb299b109e225b06a858/visual.json
+Emergency Response,af76c3c924b8b3304ca9,c0794ff5854cea70ea08,cardVisual,,Total Aid,pages/af76c3c924b8b3304ca9/visuals/c0794ff5854cea70ea08/visual.json
+Emergency Response,af76c3c924b8b3304ca9,c30f3a36374d65ac3272,textbox,EMERGENCY RESPONSE,,pages/af76c3c924b8b3304ca9/visuals/c30f3a36374d65ac3272/visual.json
+Emergency Response,af76c3c924b8b3304ca9,9dd7c563409807998046,actionButton,,,pages/af76c3c924b8b3304ca9/visuals/9dd7c563409807998046/visual.json
+Smart Priority,77a1bda2d61d67139137,6a1ec89ce72de5910770,donutChart,,Priority Category; Total Disasters,pages/77a1bda2d61d67139137/visuals/6a1ec89ce72de5910770/visual.json
+Smart Priority,77a1bda2d61d67139137,739fb6dd00ca331d6acb,scatterChart,,disaster_type; economic_loss_usd; severity_index; casualties,pages/77a1bda2d61d67139137/visuals/739fb6dd00ca331d6acb/visual.json
+Smart Priority,77a1bda2d61d67139137,aa94d9d5215022588626,lineChart,,disaster_type; Average Priority Score; Average Response Efficiency,pages/77a1bda2d61d67139137/visuals/aa94d9d5215022588626/visual.json
+Smart Priority,77a1bda2d61d67139137,2db9f38003a5b1b97281,textbox,SMART PRIORITY,,pages/77a1bda2d61d67139137/visuals/2db9f38003a5b1b97281/visual.json
+Smart Priority,77a1bda2d61d67139137,40b324cf814d726312a8,cardVisual,,Average Priority Score,pages/77a1bda2d61d67139137/visuals/40b324cf814d726312a8/visual.json
+Smart Priority,77a1bda2d61d67139137,1730c95a7a22c4de4dc8,cardVisual,,Critical Disasters,pages/77a1bda2d61d67139137/visuals/1730c95a7a22c4de4dc8/visual.json
+Smart Priority,77a1bda2d61d67139137,41b6d78444a87bb480c7,cardVisual,,High Priority Disasters,pages/77a1bda2d61d67139137/visuals/41b6d78444a87bb480c7/visual.json
+Smart Priority,77a1bda2d61d67139137,4b9fa2c7cc798e7a78aa,actionButton,,,pages/77a1bda2d61d67139137/visuals/4b9fa2c7cc798e7a78aa/visual.json
+Smart Priority,77a1bda2d61d67139137,5a61e02e922419928940,actionButton,,,pages/77a1bda2d61d67139137/visuals/5a61e02e922419928940/visual.json
+Smart Priority,77a1bda2d61d67139137,b73236949a00be5a3dba,actionButton,,,pages/77a1bda2d61d67139137/visuals/b73236949a00be5a3dba/visual.json
+Smart Priority,77a1bda2d61d67139137,c242080300503463c250,actionButton,,,pages/77a1bda2d61d67139137/visuals/c242080300503463c250/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,a823745627548aac725a,lineChart,,date; Average Recovery Days,pages/4b99b5456b030ed34a3a/visuals/a823745627548aac725a/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,7eb45511a1428937b0c5,lineClusteredColumnComboChart,,disaster_type; Total Economic Loss; Average Recovery Days,pages/4b99b5456b030ed34a3a/visuals/7eb45511a1428937b0c5/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,32597431bbcd000bb69a,scatterChart,,disaster_type; casualties; aid_amount_usd; economic_loss_usd,pages/4b99b5456b030ed34a3a/visuals/32597431bbcd000bb69a/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,4640da2d287ab5b60207,actionButton,,,pages/4b99b5456b030ed34a3a/visuals/4640da2d287ab5b60207/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,0c0a432809909311c4c0,actionButton,,,pages/4b99b5456b030ed34a3a/visuals/0c0a432809909311c4c0/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,1efa0d5640c95346e106,actionButton,,,pages/4b99b5456b030ed34a3a/visuals/1efa0d5640c95346e106/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,18253f1ce90ed9c6e534,actionButton,,,pages/4b99b5456b030ed34a3a/visuals/18253f1ce90ed9c6e534/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,f8932c1260b8b249a947,actionButton,,,pages/4b99b5456b030ed34a3a/visuals/f8932c1260b8b249a947/visual.json
+Executive Overview,f527439e704b20b816c4,a6841e4ee022762ad069,actionButton,,,pages/f527439e704b20b816c4/visuals/a6841e4ee022762ad069/visual.json
+Executive Overview,f527439e704b20b816c4,57f9781801bed0250525,actionButton,,,pages/f527439e704b20b816c4/visuals/57f9781801bed0250525/visual.json
+Executive Overview,f527439e704b20b816c4,7dafff7d6d0e02a4ee33,actionButton,,,pages/f527439e704b20b816c4/visuals/7dafff7d6d0e02a4ee33/visual.json
+Executive Overview,f527439e704b20b816c4,1c0f3ffd0e440326c99a,actionButton,,,pages/f527439e704b20b816c4/visuals/1c0f3ffd0e440326c99a/visual.json
+Executive Overview,f527439e704b20b816c4,788a74fe5b33cbe4d3ed,actionButton,,,pages/f527439e704b20b816c4/visuals/788a74fe5b33cbe4d3ed/visual.json
+Global Disaster Distribution,59a26ffe00a9d12c9e00,042976fe7da410a87900,actionButton,,,pages/59a26ffe00a9d12c9e00/visuals/042976fe7da410a87900/visual.json
+Emergency Response,af76c3c924b8b3304ca9,f145652672ecb921eca3,actionButton,,,pages/af76c3c924b8b3304ca9/visuals/f145652672ecb921eca3/visual.json
+Smart Priority,77a1bda2d61d67139137,dcee1faa704083d984e9,actionButton,,,pages/77a1bda2d61d67139137/visuals/dcee1faa704083d984e9/visual.json
+Recovery and Impact,4b99b5456b030ed34a3a,a8a8a365ead06a3ab622,textbox,RECOVERY AND IMPACT,,pages/4b99b5456b030ed34a3a/visuals/a8a8a365ead06a3ab622/visual.json
